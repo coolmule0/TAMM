@@ -169,3 +169,5 @@ cython_debug/
 # Other things
 results/*
 tmp/
+*.png
+*.svs
